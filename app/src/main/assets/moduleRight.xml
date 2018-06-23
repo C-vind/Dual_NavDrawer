@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<module name = "RightDrawer">
+    <right>
+        <item label="Setting" icon="ic_setting.png" shortcut="TRUE" />
+        <item label="Sad" icon="ic_sad.png" shortcut="FALSE" />
+        <item label="Print" icon="ic_print.png" shortcut="TRUE" />
+        <item label="Lock" icon="ic_lock.png" shortcut="FALSE" />
+        <item label="Gift" icon="ic_gift.png" shortcut="TRUE" />
+        <item label="Calendar" icon="ic_calendar.png" shortcut="TRUE" />
+        <item label="Back" icon="ic_back.png" shortcut="FALSE" />
+    </right>
+</module>

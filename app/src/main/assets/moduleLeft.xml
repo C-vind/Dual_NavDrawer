@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<module name = "LeftDrawer">
+    <left>
+        <item label="Back" icon="ic_back.png" shortcut="TRUE" />
+        <item label="Calendar" icon="ic_calendar.png" shortcut="TRUE" />
+        <item label="Gift" icon="ic_gift.png" shortcut="FALSE" />
+        <item label="Lock" icon="ic_lock.png" shortcut="TRUE" />
+        <list label="List1">
+            <item label="Print" icon="ic_print.png" shortcut="FALSE" />
+            <item label="Sad" icon="ic_sad.png" shortcut="TRUE" />
+        </list>
+        <item label="Setting" icon="ic_setting.png" shortcut="TRUE" />
+    </left>
+</module>
