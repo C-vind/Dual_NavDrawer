@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<app root="android">
+<app>
     <includes>
         <include file="moduleLeft.xml" />
         <include file="moduleRight.xml" />
