@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity
             doSomething(cont, "Left 6");
     }
 
-    public static void doSomething(Context cont, String str) {
+    private static void doSomething(Context cont, String str) {
         Toast.makeText(cont, str, Toast.LENGTH_SHORT).show();
     }
 
@@ -237,9 +237,7 @@ public class MainActivity extends AppCompatActivity
         return true;
     }
 
-    /**
-     * Used for setting the right navigation drawer
-     */
+    // Used for setting the right navigation drawer
     private void setRightNavigation() {
         // Set right navigation to listen on selected option
         navView_right.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
